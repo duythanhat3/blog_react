@@ -1,0 +1,17 @@
+{
+  "btn-login": "login",
+  "login": {
+    "login_btn": "Sign in",
+    "email": "Username/Email",
+    "password": "Password",
+    "forgot_pass": "Forgot password"
+  },
+  "message": {
+    "notification": "Notification",
+    "success": "Successful",
+    "fail": "Failure",
+    "add_event_success": "Add event successful",
+    "add_event_fail": "Add event fail",
+    "go_home": "Back to home page"
+  }
+}

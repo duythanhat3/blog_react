@@ -1,0 +1,17 @@
+{
+    "btn-login": "Đăng nhập",
+    "login": {
+        "login_btn": "Đăng nhập",
+        "email": "Email/Tài khoản",
+        "password": "Mật khẩu",
+        "forgot_pass": "Quên mật khẩu"
+    },
+    "message": {
+        "notification": "Thông báo",
+        "success": "Thành công",
+        "fail": "Không thành công",
+        "add_event_success": "Thêm sự kiện thành công",
+        "add_event_fail": "Thêm sự kiện thất bại",
+        "go_home": "Quay về trang chủ"
+    }
+}
